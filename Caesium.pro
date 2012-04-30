@@ -44,7 +44,8 @@ OTHER_FILES += \
     caesium_fr.ts \
     caesium_en.ts \
     caesium_de.ts \
-    caesium_cn.ts
+    caesium_cn.ts \
+    icon.icns
 
 FORMS += \
     updater.ui \
@@ -57,7 +58,8 @@ FORMS += \
 RESOURCES += \
     icons.qrc
 
-RC_FILE = caesium.rc
+win32:RC_FILE = caesium.rc
+macx:RC_FILE = icon.icns
 
 TRANSLATIONS = caesium_en.ts \
                 caesium_it.ts \
