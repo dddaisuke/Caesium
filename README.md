@@ -1,3 +1,5 @@
+[![endorse](http://api.coderwall.com/dddaisuke/endorsecount.png)](http://coderwall.com/dddaisuke)
+
 Caesium
 =======
 
@@ -37,3 +39,5 @@ Can be useful to webmasters who have many images on their website and want to re
 
 # License
 This is an open-source project, distribuited under the [GNU General Public License](http://www.gnu.org/licenses/gpl.html). Is a fully free software and you can use it under the terms of the licence.
+
+[![endorse](http://api.coderwall.com/dddaisuke/endorsecount.png)](http://coderwall.com/dddaisuke)
